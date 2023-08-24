@@ -1,0 +1,13 @@
+div{
+    background-color: aqua;
+    font-family:'Courier New', Courier, monospace;
+    border: 5px solid red;
+    border-start-end-radius: 10px blue;
+    border-radius: 20px;
+    margin: 40px;
+    padding: 20px;
+    font-style: italic;
+    color: brown;
+    text-decoration:underline;
+    
+}
